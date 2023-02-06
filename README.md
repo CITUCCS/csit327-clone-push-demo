@@ -10,3 +10,4 @@ This class is about being a better developer.
  - Joshua
  - Mark
  - April
+ - Mikkel
