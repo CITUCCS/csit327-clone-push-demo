@@ -2,7 +2,7 @@
 
 ## About
 
-This class is about being a better developer.
+This class is about being a better developer. This is S.Y. 2022-2023
 
 ## Students
 
