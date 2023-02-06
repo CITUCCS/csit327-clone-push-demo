@@ -8,6 +8,6 @@ This class is about being a better developer.
 
  - Patrick
  - Joshua
- - Mark
+ - Mark Yuri P. Geagonia
  - April
  - Mikkel
