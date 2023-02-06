@@ -12,3 +12,4 @@ This class is about being a better developer.
  - Mark Yuri P. Geagonia
  - April
  - Mikkel
+ - Zyne
