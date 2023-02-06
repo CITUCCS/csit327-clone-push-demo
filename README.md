@@ -12,3 +12,4 @@ This class is about being a better developer. This is S.Y. 2022-2023
  - Mark Yuri P. Geagonia
  - April
  - Mikkel
+ - Zyne
